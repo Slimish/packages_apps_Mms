@@ -88,7 +88,7 @@
     <string name="type_to_reply_text_enter_to_send">Escribir mensaje</string>
     <string name="toast_sending_message">Enviando mensaje\u2026</string>
     <string name="qm_quick_reply">Responder</string>
-    <string name="qm_mark_read">Leídos</string>
+    <string name="qm_mark_read">Leído</string>
     <string name="direct_call_title">Llamada directa</string>
     <string name="direct_call_summary">Cogiendo el telefóno llama al contacto actual</string>
     <string name="pref_title_mms_message_font_size">Tamaño de la fuente del mensaje</string>
